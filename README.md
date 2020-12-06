@@ -11,11 +11,7 @@ Basically, LiDAR is a remote sensing process which collects measurements used t
 
 Although now most sources treat the word "LiDAR" as an acronym, the term originated as a combination of "light" and "radar". When LiDAR was first proposed in the 1960s, lasers and detection mechanisms were bulky and slow to operate — all that is changing rapidly.
 
-![README/kitti.png](README/kitti.png)
-
 LiDAR systems send out pulses of light just outside the visible spectrum and register how long it takes each pulse to return. The direction and distance of whatever the pulse hits are recorded as a point of data. Different LiDAR units have different methods, but generally they sweep in a circle like a RADAR dish, while simultaneously moving the laser up and down.
-
-![README/Lidar_1.png](README/Lidar_1.png)
 
 ## Occupancy Grid Construction
 
